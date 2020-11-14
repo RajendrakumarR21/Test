@@ -1,0 +1,38 @@
+[info] MonadOpsSpec:
+[info] LiftFuture
+[info] - should work
+[info] AsFuture
+[info] - should work
+[info] SequenceForgivingWithLogging
+[info] - should work
+[info] SequenceWithLogging
+[info] - should work
+[info] SequenceForgiving
+[info] - should work
+[info] LiftTry
+[info] - should work
+[info] Zip
+[info] zip(Option,Option)
+[info] - should succeed
+[info] zip(Try,Try)
+[info] - should succeed
+[info] zip(Future,Future)
+[info] - should succeed
+[info] OptionToTry
+[info] - should work1
+[info] - should work2
+[info] Sequence
+[info] - should work1
+[info] - should work2
+[info] - should work3
+[info] - should work4
+[info] - should work5
+[info] mapFuture
+[info] LiftOption
+[info] - should work
+[info] Map2
+[info] - should work
+[info] Flatten
+[info] - should work1
+[info] - should work2
+[info] - should work3

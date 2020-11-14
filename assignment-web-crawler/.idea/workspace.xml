@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f7a47a5-dcf3-479b-8c72-b768db6d89b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/MonadOps.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/MonadOps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kD8Et0VhGxukKB4bLmiLknL8dO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="ScalaTest.WebCrawlerSpec.wget(URL) should not succeed for $badURL">
+    <configuration name="WebCrawlerSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="WebCrawler" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstwc.WebCrawlerSpec" />
+      <option name="workingDirectory" value="E:\Scala_Updated2\CSYE7200\assignment-web-crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebCrawlerSpec.crawler(Seq[URL]) should succeed for $goodURL, depth 2" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="WebCrawler" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstwc.WebCrawlerSpec" />
+      <option name="testName" value="crawler(Seq[URL]) should succeed for $goodURL, depth 2" />
+      <option name="workingDirectory" value="E:\Scala_Updated2\CSYE7200\assignment-web-crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebCrawlerSpec.wget(Seq[URL]) should succeed for $goodURL, http://www.google.com/" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="WebCrawler" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstwc.WebCrawlerSpec" />
+      <option name="testName" value="wget(Seq[URL]) should succeed for $goodURL, http://www.google.com/" />
+      <option name="workingDirectory" value="E:\Scala_Updated2\CSYE7200\assignment-web-crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebCrawlerSpec.wget(URL) should not succeed for $badURL" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="WebCrawler" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstwc.WebCrawlerSpec" />
+      <option name="testName" value="wget(URL) should not succeed for $badURL" />
+      <option name="workingDirectory" value="E:\Scala_Updated2\CSYE7200\assignment-web-crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebCrawlerSpec.wget(URL) should succeed for $goodURL" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="WebCrawler" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="edu.neu.coe.csye7200.asstwc.WebCrawlerSpec" />
+      <option name="testName" value="wget(URL) should succeed for $goodURL" />
+      <option name="workingDirectory" value="E:\Scala_Updated2\CSYE7200\assignment-web-crawler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="ScalaTest.WebCrawlerSpec.wget(URL) should succeed for $goodURL" />
+      <item itemvalue="ScalaTest.WebCrawlerSpec.wget(Seq[URL]) should succeed for $goodURL, http://www.google.com/" />
+      <item itemvalue="ScalaTest.WebCrawlerSpec.crawler(Seq[URL]) should succeed for $goodURL, depth 2" />
+      <item itemvalue="ScalaTest.WebCrawlerSpec" />
+      <item itemvalue="ScalaTest.WebCrawlerSpec.wget(URL) should not succeed for $badURL" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.WebCrawlerSpec.wget(URL) should not succeed for $badURL" />
+        <item itemvalue="ScalaTest.WebCrawlerSpec" />
+        <item itemvalue="ScalaTest.WebCrawlerSpec.wget(URL) should succeed for $goodURL" />
+        <item itemvalue="ScalaTest.WebCrawlerSpec.crawler(Seq[URL]) should succeed for $goodURL, depth 2" />
+        <item itemvalue="ScalaTest.WebCrawlerSpec.wget(Seq[URL]) should succeed for $goodURL, http://www.google.com/" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f7a47a5-dcf3-479b-8c72-b768db6d89b2" name="Default Changelist" comment="" />
+      <created>1605223695340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605223695340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605317831810">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605317831810" />
+    <state x="549" y="129" key="FileChooserDialogImpl" timestamp="1605317894106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="129" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605317894106" />
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1605392012201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605392012201" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1605392012201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605392012201" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1605392012201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605392012201" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1605392012201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605392012201" />
+    <state width="1493" height="238" key="GridCell.Tab.1.bottom" timestamp="1605392012202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605392012202" />
+    <state width="1493" height="238" key="GridCell.Tab.1.center" timestamp="1605392012201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605392012201" />
+    <state width="1493" height="238" key="GridCell.Tab.1.left" timestamp="1605392012201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605392012201" />
+    <state width="1493" height="238" key="GridCell.Tab.1.right" timestamp="1605392012202">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605392012202" />
+    <state x="439" y="116" key="NewModule_or_Project.wizard" timestamp="1605317909946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="439" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1605317909946" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1605328500456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605328500456" />
+    <state x="305" y="148" width="926" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605316996018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="305" y="148" width="926" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1605316996018" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605316711759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605316711759" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>42</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>41</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>20</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>51</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>61</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>71</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>83</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>90</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>97</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>35</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>36</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/edu/neu/coe/csye7200/asstwc/WebCrawler.scala</url>
+          <line>37</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

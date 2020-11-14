@@ -1,0 +1,29 @@
+[info] WebCrawlerSpec:
+[info] getURLContent
+[info] - should succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html
+[info] wget(URL)
+[info] - should succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html *** FAILED ***
+[info]   The future returned an exception of type: scala.NotImplementedError, with message: an implementation is missing. (WebCrawlerSpec.scala:30)
+[info] - should not succeed for http://www1.coe.neu.edu/junk *** FAILED ***
+[info]   java.util.concurrent.ExecutionException: Boxed Exception was not an instance of edu.neu.coe.csye7200.asstwc.WebCrawlerURLException, but an instance of java.util.concurrent.ExecutionException (WebCrawlerSpec.scala:36)
+[info] - should not succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html
+[info] wget(Seq[URL])
+[info] - should succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html, http://www.google.com/ *** FAILED ***
+[info]   The future returned an exception of type: scala.NotImplementedError, with message: an implementation is missing. (WebCrawlerSpec.scala:50)
+[info] filterAndFlatten
+[info] - should work *** FAILED ***
+[info]   scala.NotImplementedError: an implementation is missing
+[info]   at scala.Predef$.$qmark$qmark$qmark(Predef.scala:347)
+[info]   at edu.neu.coe.csye7200.asstwc.WebCrawler$.wget(WebCrawler.scala:44)
+[info]   at edu.neu.coe.csye7200.asstwc.WebCrawlerSpec.$anonfun$new$20(WebCrawlerSpec.scala:64)
+[info]   at org.scalatest.OutcomeOf.outcomeOf(OutcomeOf.scala:85)
+[info]   at org.scalatest.OutcomeOf.outcomeOf$(OutcomeOf.scala:83)
+[info]   at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:22)
+[info]   at org.scalatest.Transformer.apply(Transformer.scala:20)
+[info]   at org.scalatest.flatspec.AnyFlatSpecLike$$anon$5.apply(AnyFlatSpecLike.scala:1683)
+[info]   at org.scalatest.TestSuite.withFixture(TestSuite.scala:196)
+[info]   ...
+[info] crawler(Seq[URL])
+[info] - should succeed for http://www1.coe.neu.edu/~rhillyard/indexSafe.html, depth 2 *** FAILED ***
+[info]   The future returned an exception of type: scala.NotImplementedError, with message: an implementation is missing. (WebCrawlerSpec.scala:80)
